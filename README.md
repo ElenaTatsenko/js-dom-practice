@@ -1,1 +1,1 @@
-# js-dom-practice
+# goit-js-hw-06
